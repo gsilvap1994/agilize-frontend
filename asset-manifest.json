@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/agilize-frontend/static/css/main.971b125e.css",
+    "main.js": "/agilize-frontend/static/js/main.96d88ab5.js",
+    "static/js/787.d1030807.chunk.js": "/agilize-frontend/static/js/787.d1030807.chunk.js",
+    "static/media/agilize-logo.png": "/agilize-frontend/static/media/agilize-logo.97eb65d6fa6d4e78a42f.png",
+    "index.html": "/agilize-frontend/index.html",
+    "main.971b125e.css.map": "/agilize-frontend/static/css/main.971b125e.css.map",
+    "main.96d88ab5.js.map": "/agilize-frontend/static/js/main.96d88ab5.js.map",
+    "787.d1030807.chunk.js.map": "/agilize-frontend/static/js/787.d1030807.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.971b125e.css",
+    "static/js/main.96d88ab5.js"
+  ]
+}
