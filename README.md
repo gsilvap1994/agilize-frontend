@@ -1,46 +1,25 @@
-# Getting Started with Create React App
+# Agilize-frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the frontend of Agilize application. It was built using React 18. Tailwind CSS, and GraphQL client.
 
-## Available Scripts
+This is a simple CRUD application but it's built on top of some core concepts using these technologies.
 
-In the project directory, you can run:
+## Prerequistes
 
-### `npm start`
+After following to the next section, please confirm that you have installed NodeJs in your machine.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Running locally
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+For starting the development server please run the following commands:
 
-### `npm test`
+```
+git clone https://github.com/gsilvap1994/agilize-frontend.git
+npm install
+npm start
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+After a local server will start in the available port.
 
-### `npm run build`
+## Deployment
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project was deployed to github pages, and [here](https://gsilvap1994.github.io/agilize-frontend/) you can find a live version of it.
