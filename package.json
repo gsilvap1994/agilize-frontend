@@ -1,7 +1,6 @@
 {
   "name": "agilize-frontend",
   "version": "0.1.0",
-  "homepage": "https://gsilvap1994.github.io/agilize-frontend",
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.8.1",

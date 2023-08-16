@@ -1,6 +1,6 @@
-import { useMutation, useQuery } from "@apollo/client";
+import { useQuery } from "@apollo/client";
 import Layout from "../../shared/components/Layout";
-import { EDIT_GOAL, GET_GOALS } from "../../shared/graphql/goals";
+import { GET_GOALS } from "../../shared/graphql/goals";
 import { Goal } from "../../shared/types/Goal";
 import CreateGoal from "./components/CreateGoal";
 import ReadEditDelGoalHandler from "./components/ReadEditDelGoalHandler";
