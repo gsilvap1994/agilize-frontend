@@ -19,7 +19,3 @@ npm start
 ```
 
 After a local server will start in the available port.
-
-## Deployment
-
-This project was deployed to github pages, and [here](https://gsilvap1994.github.io/agilize-frontend/) you can find a live version of it.
