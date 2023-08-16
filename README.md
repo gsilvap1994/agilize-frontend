@@ -19,3 +19,7 @@ npm start
 ```
 
 After a local server will start in the available port.
+
+## Deployment
+
+This project was deployed to Vercel. You can check a live version of it in [this](https://agilize-frontend.vercel.app/) link.
